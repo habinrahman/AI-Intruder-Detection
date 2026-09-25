@@ -8,12 +8,12 @@ from email.message import EmailMessage
 # SMTP2GO Configuration
 SMTP_SERVER = "mail.smtp2go.com"
 SMTP_PORT = 587
-SMTP_USERNAME = "habin"
-SMTP_PASSWORD = "nu24mca50"
+SMTP_USERNAME = ""
+SMTP_PASSWORD = ""
 
 # Email Details
-SENDER_EMAIL = "nnm24mc050@nmamit.in"
-RECEIVER_EMAIL = "nnm24mc050@nmamit.in"
+SENDER_EMAIL = ""
+RECEIVER_EMAIL = ""
 
 # Paths
 IMAGE_FOLDER = r"C:\Users\habin\OneDrive\Desktop\INTRUDER\Intruder_Logs"
