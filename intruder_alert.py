@@ -14,10 +14,10 @@ LOG_FILE = r"C:\Users\habin\OneDrive\Desktop\INTRUDER\intruder_log.txt"
 # Email Configuration (Replace with actual credentials)
 SMTP_SERVER = "mail.smtp2go.com"
 SMTP_PORT = 587
-SMTP_USERNAME = "habin"
-SMTP_PASSWORD = "nu24mca50"
-SENDER_EMAIL = "nnm24mc050@nmamit.in"
-RECEIVER_EMAIL = "nnm24mc050@nmamit.in"
+SMTP_USERNAME = ""
+SMTP_PASSWORD = ""
+SENDER_EMAIL = ""
+RECEIVER_EMAIL = ""
 
 # Load authorized faces
 def load_authorized_faces():
