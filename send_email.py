@@ -8,9 +8,9 @@ from email import encoders
 # SMTP2GO Credentials (Replace these only in a safe environment)
 SMTP_SERVER = "mail.smtp2go.com"
 SMTP_PORT = 587
-SENDER_EMAIL = "nnm24mco050@nmamit.in"
-SENDER_PASSWORD = "nu24mca50"
-RECIPIENT_EMAIL = "nnm24mco050@nmamit.in"  # Or whoever you want to alert
+SENDER_EMAIL = ""
+SENDER_PASSWORD = ""
+RECIPIENT_EMAIL = ""  # Or whoever you want to alert
 
 def send_intruder_alert(image_path):
     """
