@@ -7,15 +7,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
 from email import encoders
 
-# SMTP Configuration
-SMTP_SERVER = "mail.smtp2go.com"
-SMTP_PORT = 587
-SMTP_USERNAME = "habin"
-SMTP_PASSWORD = "nu24mca50"
 
-EMAIL_FROM = "nnm24mc050@nmamit.in"
-EMAIL_TO = "nnm24mc050@nmamit.in"
-SUBJECT = "🚨 Intruder Alert!"
 
 # ✅ **Function to get the latest intruder image without renaming it**
 def get_latest_intruder_image():
