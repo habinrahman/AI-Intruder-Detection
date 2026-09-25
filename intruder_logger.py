@@ -10,9 +10,9 @@ import smtplib
 # === CONFIGURATION ===
 SMTP_SERVER = "mail.smtp2go.com"
 SMTP_PORT = 587
-SENDER_EMAIL = "nnm24mco050@nmamit.in"
-SENDER_PASSWORD = "nu24mca50"
-RECIPIENT_EMAIL = "nnm24mco050@nmamit.in"
+SENDER_EMAIL = ""
+SENDER_PASSWORD = ""
+RECIPIENT_EMAIL = ""
 
 # === Step 1: Capture Image ===
 def capture_intruder_image():
